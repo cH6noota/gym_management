@@ -6,9 +6,10 @@ import time
 from functions import check_token 
 from classes import Sesame
 import os
+import setting
 
 # 地点コード
-code ="p0000"
+code = setting.POINT_CODE
 cmd = 'python3 ' + os.getcwd() +'/back_process.py '+code+' &'
 sesame = Sesame( code )
 #print ( obj.sesame_id)
