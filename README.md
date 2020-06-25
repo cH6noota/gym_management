@@ -17,6 +17,7 @@ https://www.amazon.co.jp/dp/B076X4FTN9/ref=cm_sw_r_tw_dp_x_sYn9Eb4943V71
 
 
 <h2>使用方法</h2>
-.envにて環境変数を設定してください.
+.envにて環境変数を設定してください。
+<a href="https://docs.candyhouse.co/">Sesame APIについて</a>
 
 
